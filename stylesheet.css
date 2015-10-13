@@ -1,0 +1,47 @@
+
+body {
+	color: #660000;
+	font: 14px/ Arial;
+	background-color: #99FFFF;
+	padding: 5px 20px 5px 20px;
+}
+
+header {
+	display: block;
+	margin: 1px auto;
+	text-align: center;
+	font-family: normal normal 24px/Lucinda Sans, Arial, Verdana, sans-serif;
+	color: #290014;
+}
+
+header p {
+	color: #3D001F;
+}
+
+nav {
+	display: inline-block;
+	text-align: center;
+	transition: all 0.5s ease-in-out;
+}
+nav:hover:focus:active {
+	background-color: #FF8000;
+	color: #990033;
+}
+
+main a {
+	color: blue;
+}
+
+h3, .mfa, .ma, .bs {
+	color: #990033;
+	display: block;
+	margin: 1px auto;
+	text-align: center;
+	font-family: normal normal 24px/Lucinda Sans, Arial, Verdana, sans-serif;
+}
+
+main, .mfa, .ma, .bs {
+	color: #660000;
+}
+
+
